@@ -1,2 +1,3 @@
 Hi, I am Jyoti Minocha - Azure
 Terraform
+AZ-900
